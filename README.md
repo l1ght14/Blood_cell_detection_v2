@@ -14,7 +14,6 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 ## 🔬 Blood Cell Detection (Deployed)
 
-This project detects and classifies blood cells using a Convolutional Neural Network.
-
+🧠 Model: The project uses Ultralytics YOLOv8 for real-time blood cell detection and classification, trained on labeled microscopic image data.
 👉 [Live Demo on Hugging Face](https://huggingface.co/spaces/prakash200314/Blood_cell_detection_v2)
 
